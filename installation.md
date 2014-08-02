@@ -1,0 +1,1 @@
+`pip install xively-python --pre`  # --pre because the library is release candidate

@@ -1,3 +1,6 @@
+# don't track the config file with api & feed id in it
+*xively_config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
